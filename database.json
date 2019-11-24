@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/guidospace777/greycat.git": [
+      "guidospace777/greycat",
+      "1574584604364"
+    ]
+  },
   "studio-open-web": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
